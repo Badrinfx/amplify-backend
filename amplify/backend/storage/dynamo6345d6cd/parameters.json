@@ -1,0 +1,5 @@
+{
+    "tableName": "test-table",
+    "partitionKeyName": "content",
+    "partitionKeyType": "S"
+}

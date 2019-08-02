@@ -1,0 +1,39 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@aws-amplify/api": "^1.0.36",
+    "aws-amplify": "^1.1.29",
+    "aws-amplify-react-native": "^2.1.13",
+    "country-state-city": "^1.0.0",
+    "expo": "^32.0.0",
+    "footer": "^1.0.0",
+    "moment": "^2.24.0",
+    "native-base": "^2.12.1",
+    "node-json-db": "^0.11.0",
+    "ramda": "^0.26.1",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "react-native-calendar-picker": "^6.0.0",
+    "react-native-check-box": "^2.1.7",
+    "react-native-dynamodb": "^0.0.5",
+    "react-native-pagination": "^1.5.5",
+    "react-native-responsive-screen": "^1.2.2",
+    "react-native-search-filter": "^0.1.4",
+    "react-native-swipe-list-view": "^1.5.7",
+    "react-native-uuid-generator": "^5.0.0",
+    "react-native-vector-icons": "^6.5.0",
+    "react-navigation": "^3.11.0",
+    "remove-stopwords": "^1.0.3",
+    "stopword": "^0.3.1"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.0.0"
+  },
+  "private": true
+}

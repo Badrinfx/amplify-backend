@@ -1,0 +1,12 @@
+type dreams @model {
+  id: ID!
+  title: String
+  TextInputValue: String
+  wokeupfeeling:String
+  City:String
+  Country:String
+  State:String
+  Category:String
+  Date:String
+  dreamprivacy:Boolean
+}

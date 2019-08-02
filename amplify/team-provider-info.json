@@ -1,0 +1,19 @@
+{
+    "dream": {
+        "awscloudformation": {
+            "AuthRoleName": "dream-dream-20190715165020-authRole",
+            "UnauthRoleArn": "arn:aws:iam::902199709523:role/dream-dream-20190715165020-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::902199709523:role/dream-dream-20190715165020-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "dream-dream-20190715165020-deployment",
+            "UnauthRoleName": "dream-dream-20190715165020-unauthRole",
+            "StackName": "dream-dream-20190715165020",
+            "StackId": "arn:aws:cloudformation:us-east-2:902199709523:stack/dream-dream-20190715165020/89326af0-a6f2-11e9-a352-0aa0cd9d9f9c"
+        },
+        "categories": {
+            "auth": {
+                "dream6897f7a8": {}
+            }
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+	"api": {},
+	"auth": {
+		"dream6897f7a8": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation"
+		}
+	},
+	"storage": {
+		"dynamo6345d6cd": {
+			"service": "DynamoDB",
+			"providerPlugin": "awscloudformation"
+		}
+	}
+}
