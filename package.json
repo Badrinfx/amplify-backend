@@ -11,7 +11,7 @@
     "aws-amplify": "^1.1.29",
     "aws-amplify-react-native": "^2.1.13",
     "country-state-city": "^1.0.0",
-    "expo": "^32.0.0",
+    "expo": "^46.0.16",
     "footer": "^1.0.0",
     "moment": "^2.24.0",
     "native-base": "^2.12.1",
